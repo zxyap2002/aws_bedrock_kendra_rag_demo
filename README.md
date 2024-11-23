@@ -10,7 +10,7 @@ Amazon Kendra is an intelligent enterprise search service provided by AWS that e
 
 This is a simple architecture for this code:
 
-![image-2.png](attachment:image-2.png)
+![diagram](https://github.com/zxyap2002/aws_bedrock_kendra_rag_demo/blob/4ecc6777c3727383439ee32940e086a6cd452a13/Architechture.png)
 
 Processes:
 1. Document Upload: Users upload documents (e.g., PDFs, Word files, images, etc.) to Amazon Simple Storage Service (S3).
