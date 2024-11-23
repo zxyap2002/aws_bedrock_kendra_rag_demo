@@ -1,5 +1,3 @@
-# aws_bedrock_kendra_rag_demo
-
 # **Retrieval Augmented Generation (RAG) using Amazon Bedrock and Amazon Kendra with LangChain**
 
 In today's fast-paced business environment, managing contracts, policies, and compliance documents has become increasingly challenging. AI solutions provided by AWS empower businesses to locate their documents and content instantly using natural language queries, helping businesses to save valuable time.
